@@ -25,7 +25,7 @@ function hariIndo ($hariInggris) {
 $hariBahasaInggris = date('l');
 $hariBahasaIndonesia = hariIndo($hariBahasaInggris);
 
-	echo "<center>Website pribadi Hugo</center>";
+	echo "<center>Website pribadi Hendar</center>";
 	echo "Hari ini  {$hariBahasaIndonesia} <br>";
 	echo "Tanggal ". date('F j, Y'); echo "<br>"; 
 	echo "Jam ". date('H:i:s'); echo "<br>";
